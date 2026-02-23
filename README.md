@@ -143,6 +143,8 @@ Project Root/
     └── ... (other model files)
 ```
 
-## 7. License & Contact
+## 7. License
 
-This project was developed for the Machine Learning course at Blekinge Institute of Technology.
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Contributions and improvements are welcome.
