@@ -1,8 +1,11 @@
 # Gender-Based Comparative Analysis of Heart Disease Prediction Models
 
 **Author:** Umair Akram
+
 **Course:** DV2638 - Machine Learning  
+
 **Institution:** Blekinge Institute of Technology (BTH)  
+
 **Date:** January 9, 2026
 
 ---
